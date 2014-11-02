@@ -1296,23 +1296,23 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e2d7e8', end
 .sop_meta_list li.sop_meta_item2{background:url(../img/24-hour-icon.png) no-repeat left center;padding-left:76px;width: 145px;}
 .sop_meta_list li.sop_meta_item3{background:url(../img/care-icon.png) no-repeat left center;padding-left:66px;width: 169px;}
 .sop_meta_list li.sop_meta_item4{background:url(../img/rampup-icon.png) no-repeat left center;padding-left:58px;width: 160px;margin-right:0;}
-.sop_purple_box {clear: both;padding: 30px 0 20px;background: #8d5ea8;min-height:192px;position: relative;z-index: 2;margin-bottom:90px;}
+.sop_purple_box {clear: both;padding: 20px 0 10px;background: #8d5ea8;height:100px;position: relative;z-index: 2;margin-bottom:90px;}
 .sop_purple_box a:hover { text-decoration:none;}
 .sop_purple_box_inner{position:relative;width:685px;margin:0 auto;padding-left:295px;}
-.sop_purple_box_inner.active .sop_purple_box_inner_right{display:none;}
-.sop_purple_box_inner.active .sop_clickhere {bottom: 0px;left: 777px;width: 50px;height: 42px;padding-top: 28px;border-radius: 37px;background: #fff url(../img/purple-arrow-up.png) no-repeat center 15px;}
+.sop_purple_box_inner.active .sop_purple_box_inner_right{display:950;}
+.sop_purple_box_inner.active 	 {bottom: 0px;left:777px;width: 50px;height: 42px;padding-top: 28px;border-radius: 37px;background: #fff url(../img/purple-arrow-up.png) no-repeat center 15px;}
 .sop_pc_img{position:absolute;left:-35px;top:0;}
 .sop_purple_box_inner_left{float:left;padding:10px 0 0 0;width:290px;font-family:robotolight;}
 .sop_purple_box_inner_left a:hover { color:#fff;}
 .register_as_merchant_link{display:block;color:#fff;text-transform:uppercase;}
-.register_as_merchant_link .title_1{display:block; clear:both;font-size:42px; line-height: 51px;}
-.register_as_merchant_link .title_2{display:block; clear:both;font-size:55px; line-height: 62px;}
+.register_as_merchant_link .title_1{display:block; clear:both;font-size:10px; line-height: 51px;}
+.register_as_merchant_link .title_2{display:block; clear:both;font-size:20px; line-height: 62px;}
 .marketplace_policy_link{font-size:15px;color:#fff;text-transform:uppercase;text-decoration:underline; font-family:calibri;}
 .sop_purple_box_inner_right{float:right;padding-left:30px;width:328px;border-left:1px solid #ababab;font-family:robotolight;margin-top:30px; }
 .sop_purple_box_inner_right a{color:#fff;}
 .sop_purple_box_inner_right a .title_1{display:block;font-size:35px;margin-bottom:6px;}
 .sop_purple_box_inner_right a .title_2{font-size:23px;text-transform:uppercase;padding-bottom:8px;border-bottom:1px dashed #fff;display: inline-block;}
-.sop_clickhere{position:absolute;left:458px;bottom:-114px;border:2px solid #8d5ea8;width:78px;font-size:20px;text-transform:uppercase;color:#8d5ea8;line-height:25px;padding:16px 10px 0;text-align:center;font-family:calibri,arial;height:82px;background:#fff url(../img/purple-arrow-down.png) no-repeat center 72px;border-radius:51px;-webkit-border-radius:51px;-moz-border-radius:51px;-o-border-radius:51px;
+.sop_clickhere{position:absolute;left:925px;bottom:-40px;border:2px solid #8d5ea8;width:78px;font-size:20px;text-transform:uppercase;color:#8d5ea8;line-height:25px;padding:16px 10px 0;text-align:center;font-family:calibri,arial;height:82px;background:#fff url(../img/purple-arrow-down.png) no-repeat center 72px;border-radius:51px;-webkit-border-radius:51px;-moz-border-radius:51px;-o-border-radius:51px;
 -webkit-transition: all 300ms ease-in-out;-moz-transition: all 300ms ease-in-out;-ms-transition: all 300ms ease-in-out;-o-transition: all 300ms ease-in-out;transition: all 300ms ease-in-out;
 }
 .need_help_reg_link{position:absolute;left:40px;bottom:-105px;font-size:19px;color:#a1a1a1;text-decoration:underline;font-family:calibri,arial;line-height:24px;}
